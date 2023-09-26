@@ -6,5 +6,6 @@
     "@primer/css": "17.0.1"
   },
   "license": "MIT"
+  "enableLicenseViolations": true
 }
 "enableReachability": true
