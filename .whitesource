@@ -1,3 +1,15 @@
 {
-  "settingsInheritedFrom": "tonifdemocorp1-Mend/whitesource-config@main"
+  "scanSettings": {
+    "configMode": "AUTO",
+	"configExternalURL": "",
+	"projectToken": "",
+	"baseBranches": []
+  },
+  "checkRunSettings": {
+    "displayMode": "diff",
+    "vulnerableCheckRunConclusionLevel": "failure"
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW"
+  }
 }
