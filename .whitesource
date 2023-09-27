@@ -15,6 +15,7 @@
   },
   "remediateSettings": {
     "workflowRules": {
-      "enabled": False
+      "enabled": false
+    }
+  }
 }
-"enableLicenseViolations": true
