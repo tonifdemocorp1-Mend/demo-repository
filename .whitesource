@@ -15,13 +15,6 @@
   },
   "remediateSettings": {
     "workflowRules": {
-      "enabled": true
-    }
-  }
-}
-{
-  "remediateSettings": {
-    "enableRenovate": true
-  }
+      "enabled": False
 }
 "enableLicenseViolations": true
